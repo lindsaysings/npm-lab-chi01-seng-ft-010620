@@ -1,0 +1,21 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "colorclock",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'HELLO'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "clock"
+  },
+  "keywords": [
+    "clock"
+  ],
+  "author": "mecher",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
